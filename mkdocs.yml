@@ -1,0 +1,20 @@
+site_name: Digital CC Manual
+pages:
+    - Home: index.md
+    - Basics: 
+        - 'basics/index.md'
+        - 'Contacts': 'basics/contacts.md'
+        - 'Software Stack': 'basics/software-stack.md'
+        - 'Logging in': 'basics/logging-in.md'
+        - 'Location of utilities': 'basics/location-of-utilities.md'
+        - 'General Work Flow and Notes': 'basics/general-work-flow-and-notes.md'
+    - Collection of Digital Objects: 'collection-of-digital-objects.md'
+    - Preparation of Digital Objects: 'preparation-of-digital-objects.md'
+    - Ingestion of Digital Objects:
+        - 'Single Object Ingestion': 'ingestion-of-digital-objects/single-object-ingestion.md'
+        - 'Compound Objects': 'ingestion-of-digital-objects/compound-objects.md'
+        - 'Batch Ingestion': 'ingestion-of-digital-objects/batch-ingestion.md'
+    - Indexing: indexing.md
+    - Maintenance of Digital Objects: 'maintenance-of-digital-objects.md'
+    - Troubleshooting: troubleshooting.md
+theme: readthedocs
