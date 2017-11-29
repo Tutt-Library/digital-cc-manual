@@ -5,7 +5,12 @@ Digital CC is the public institutional repository for
 [Colorado College](https://www.coloradocollege.edu).
 
 ## History
-
+The beginnings of Colorado College's digital repository was as a founding
+member of the Colorado Alliance of Research Libraries' (CARL) pilot
+*Alliance Digital Repository* or ADR in the early 2000s. The ADR 
+initially used one of the earliest front-ends to Fedora and required
+some specific limitations in design that is still reflected in the 
+current design of collections in Digital CC.
 
 ## Current Infrastructure
 
@@ -18,7 +23,7 @@ Digital CC's backend is a [Fedora 3.8][FEDORA38] digital repository running
 
 ### ElasticSearch - [elastic.co][ES]
 
-### Flask
+### Flask - [flask.pocoo.org](http://flask.pocoo.org)
 
 ## Future Plans - BIBCAT Publisher
 
