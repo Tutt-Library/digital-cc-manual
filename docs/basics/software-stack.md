@@ -18,6 +18,8 @@ the Alliance discontinued the ADR service resulting in Colorado College
 assuming full hosting/support for the exported content from Fedora.
 
 ## Current Infrastructure
+The current infrastructure of Digital CC is based on a front-end that
+was forked from the Aristotle Discovery Layer and migrated to [Flask][FLK] 
 
 ### Virtual Machines and Docker
 
@@ -28,12 +30,12 @@ Digital CC's backend is a [Fedora 3.8][FEDORA38] digital repository running
 
 ### ElasticSearch - [elastic.co][ES]
 
-### Flask - [flask.pocoo.org](http://flask.pocoo.org)
+### Flask - [flask.pocoo.org][FLK]
 
 ## Future Plans - BIBCAT Publisher
 
 [ES]: https://www.elastic.co/
 [FEDORA]: http://fedora-commons.org/
 [FEDORA38]: https://wiki.duraspace.org/display/FEDORA38/Fedora+3.8+Documentation
+[FLK]: http://flask.pocoo.org
 [ISLAND]: https://islandora.ca/
-
