@@ -27,6 +27,10 @@ was forked from the Aristotle Discovery Layer and migrated to [Flask][FLK]
 Digital CC's backend is a [Fedora 3.8][FEDORA38] digital repository running
 
 ### Islandora - [islandora.ca][ISLAND]
+[Islandora][ISLAND] is an open-source digital repository front-end, 
+based on [Drupal](https://www.drupal.org/),to a [Fedora 3.8][FEDORA38] 
+backend repository. Islandora also uses a [Solr](http://lucene.apache.org/solr/)
+index and adds a management layer for digital objects stored in Fedora.
 
 ### ElasticSearch - [elastic.co][ES]
 
