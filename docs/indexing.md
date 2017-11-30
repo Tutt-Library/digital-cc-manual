@@ -1,3 +1,5 @@
+author: Sarah Bogard
+
 # Indexing the Repository
 
 One of the Fedora Utilities is the Indexer, this takes the metadata from
