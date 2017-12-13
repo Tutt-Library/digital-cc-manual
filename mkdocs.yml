@@ -16,5 +16,9 @@ pages:
         - 'Batch Ingestion': 'ingestion-of-digital-objects/batch-ingestion.md'
     - Indexing: indexing.md
     - Maintenance of Digital Objects: 'maintenance-of-digital-objects.md'
+    - Reports:
+        - 'reporting/index.md'
+        - 'Google Analytics': 'reporting/google-analytics.md'
+        - 'Fedora Repository': 'reporting/fedora.md'
     - Troubleshooting: troubleshooting.md
 theme: readthedocs
