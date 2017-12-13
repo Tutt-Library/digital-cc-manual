@@ -20,4 +20,5 @@ calculated using the following SPARQL query:
     }
 
 ### Fiscal Year 2016-2017
-From the 
+From running the previous query, the total number of digital objects added to Digital CC starting 
+from June 30, 2016 to July 1, 2017 was 981.
